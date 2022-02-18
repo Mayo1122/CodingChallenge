@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodingChallengeSample</string>
+    <string name="coding_challenge_demo">Coding Challenge Demo</string>
+    <string name="eye_colors">Eye Colors: %s</string>
+    <string name="plant_populations">Populations: %s</string>
+    <string name="films">Films: %s</string>
+</resources>
